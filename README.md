@@ -1,4 +1,4 @@
-# User Behavior & Conversion Analysis for Micro-Mobility Services
+# Costumer Behavior & Conversion Analysis for Micro-Mobility Services
 **Executive Data Analysis Report — Cyclistic Case Study**
 
 **Prepared for:** Director of Marketing and Cyclistic Executive Team  
